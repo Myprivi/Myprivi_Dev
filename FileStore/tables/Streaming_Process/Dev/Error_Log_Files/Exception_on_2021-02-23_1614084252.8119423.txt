@@ -1,0 +1,2 @@
+('Connection broken: OSError("(104, \'ECONNRESET\')")', OSError("(104, 'ECONNRESET')"))
+Exception on: 2021-02-23 12:44:12.811956
